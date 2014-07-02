@@ -1,0 +1,138 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 255
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 88
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 2
+	Date: 2014-06-02 ; Times: 4
+	Date: 2014-06-05 ; Times: 1
+	Date: 2014-06-06 ; Times: 3
+	Date: 2014-06-07 ; Times: 16
+	Date: 2014-06-08 ; Times: 13
+	Date: 2014-06-09 ; Times: 4
+	Date: 2014-06-10 ; Times: 1
+	Date: 2014-06-11 ; Times: 1
+	Date: 2014-06-15 ; Times: 1
+	Date: 2014-06-16 ; Times: 2
+	Date: 2014-06-19 ; Times: 6
+	Date: 2014-06-20 ; Times: 23
+	Date: 2014-06-21 ; Times: 2
+	Date: 2014-06-23 ; Times: 5
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-29 ; Times: 2
+	Date: 2014-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Brazil" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Coniophanes" ; Times: 2
+	Query: "country:"Peru" genus:Oxybelis" ; Times: 1
+	Query: "specificepithet:variabilis genus:Tretanorhinus" ; Times: 3
+	Query: "country:"Peru" genus:Leimadophis" ; Times: 1
+	Query: "country:"Peru" genus:Pseustes" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "country:"Colombia" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 4
+	Query: "country:"Nicaragua" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:argenteus genus:Oxybelis" ; Times: 1
+	Query: "Bungarus" ; Times: 2
+	Query: "country:"Mexico" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "country:"Peru" genus:Leptodeira" ; Times: 1
+	Query: "country:"Panama" genus:Tantilla" ; Times: 4
+	Query: "stateprovince:"Chinandega" country:"Nicaragua" class:Reptilia" ; Times: 2
+	Query: "genus:Amastridium" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:lentiferus genus:Imantodes" ; Times: 1
+	Query: "country:"Brazil" genus:Leptodeira" ; Times: 2
+	Query: "country:"Belize" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "country:"Colombia" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 3
+	Query: "country:"Belize" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "genus:Pseustes" ; Times: 2
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 5
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "country:"Belize" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hortulanus genus:Corallus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:dichrous genus:Drymoluber" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 4
+	Query: "country:"Panama" genus:Lachesis" ; Times: 3
+	Query: "country:"Peru" genus:Pseudoeryx" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "stateprovince:"Amazonas" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "country:"Peru" genus:Dendrophidion" ; Times: 1
+	Query: "country:"Belize" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Spilotes" ; Times: 1
+	Query: "country:"Peru" genus:Corallus" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "specificepithet:laureata genus:Rhadinaea" ; Times: 2
+	Query: "country:"Peru" genus:Epicrates" ; Times: 1
+	Query: "country:"Peru" genus:Leptophis" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"Peru" genus:Helicops" ; Times: 1
+	Query: "country:"Cayman Islands" specificepithet:variabilis genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:angulatus genus:Helicops" ; Times: 1
+	Query: "country:"Panama" genus:Porthidium" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" genus:Lachesis" ; Times: 1
+	Query: "country:"Panama" specificepithet:nasutum genus:Porthidium" ; Times: 2
+	Query: "class:amphibia catalognumber:20000" ; Times: 1
+	Query: "country:"Belize" genus:Pseustes" ; Times: 1
+	Query: "country:"Nicaragua" genus:Tantilla" ; Times: 2
+	Query: "country:"Peru" genus:Drymoluber" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:carinatus genus:Chironius" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:atrox genus:Bothrops" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 278 download events in this period)
+Total number of records downloaded: 841 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 841
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 1
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-10 ; Times: 1
+	Date: 2014-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia catalognumber:20000" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 155
+Total number of records retrieved from searches: 1073
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 4729
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 155
+Total number of records retrieved from searches: 1073
+Number of download events that retrieved data from the resource: 194
+Total number of records downloaded: 31284
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
