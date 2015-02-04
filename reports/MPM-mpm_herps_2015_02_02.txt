@@ -1,0 +1,180 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 427
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: Namibia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 4
+	Date: 2015-01-03 ; Times: 2
+	Date: 2015-01-07 ; Times: 3
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-11 ; Times: 3
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 3
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 9
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 9
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-25 ; Times: 2
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-29 ; Times: 11
+	Date: 2015-01-30 ; Times: 2
+	Date: 2015-01-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 6
+	Query: "country:"USA" genus:Osteopilus" ; Times: 1
+	Query: "county:"Kershaw" stateprovince:"South Carolina" class:Amphibia year >= 1750 year <= 2015" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "heosemys spinosa AND (NOT california) year >= 1970 year <= 2014" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 2
+	Query: "Tretanorhinus country:"Mexico"" ; Times: 1
+	Query: "county:"Lancaster" stateprovince:"South Carolina" class:Amphibia year >= 1750 year <= 2015" ; Times: 1
+	Query: "country:"usa" class:Amphibia (planirostris)" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "county:"White" stateprovince:"Tennessee"" ; Times: 1
+	Query: "bothrops alternatus" ; Times: 1
+	Query: "stateprovince:"Crooked"" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Georgia"" ; Times: 1
+	Query: "SMNS 288" ; Times: 1
+	Query: "rhineura floridana" ; Times: 2
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "stateprovince:"New Mexico" specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "leptodeira jalisco" ; Times: 1
+	Query: "SMNS Borneo" ; Times: 2
+	Query: "SMNS Java" ; Times: 2
+	Query: "salamandra country:"germany"" ; Times: 1
+	Query: "psammobates" ; Times: 1
+	Query: "SMNS Ceratophrys" ; Times: 1
+	Query: "stateprovince:"Illinois" class:reptilia institutioncode:MPM" ; Times: 1
+	Query: "Crotalus year >= 1905 year <= 1907" ; Times: 1
+	Query: "sphaerodactylus clenchi" ; Times: 1
+	Query: "trilobite" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:amphibia year >= 1750 year <= 2015" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "stateprovince:"Illinois" class:amphibia institutioncode:MPM" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:cyanogenys genus:Sceloporus" ; Times: 3
+	Query: "Coleonyx fasciatus" ; Times: 4
+	Query: "ranoides" ; Times: 1
+	Query: "phrynosoma cornutum AND (NOT Texas NOT Mexico)" ; Times: 5
+	Query: "county:"McCormick" stateprovince:"South Carolina" country:"USA" class:Reptilia" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "SMNS typus" ; Times: 1
+	Query: "Agalychnis moreletti" ; Times: 3
+	Query: "Hydromantes shastae" ; Times: 3
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "genus:Blanus" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 445 download events in this period)
+Total number of records downloaded: 4386 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4031
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 1
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-15 ; Times: 3
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-26 ; Times: 3
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "adenomera andreae" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Cuatro Cienegas" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "stateprovince:"South Carolina" class:amphibia (Abbeville OR Anderson OR Cherokee OR Chester OR Chesterfield OR Edgefield OR Fairfield OR Greenville OR Greenwood OR Kershaw OR Lancaster OR Lexington OR Laurens OR McCormick OR Newberry OR Oconee OR Pickens OR Richland OR Saluda OR Spartanburg OR Union OR York) year >= 1750 year <= 2015" ; Times: 1
+	Query: "liolaemus" ; Times: 1
+	Query: "county:"Pickens" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "genus:Hydromantes" ; Times: 1
+	Query: "Solomon Islands type:specimen class:Reptilia (reptiles) year >= 1915 year <= 2015" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "tropidurus" ; Times: 1
+	Query: "Crotalus atrox type:specimen stateprovince:"New Mexico"" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "stateprovince:"kentucky" class:amphibia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 326
+Total number of records retrieved from searches: 2244
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 4386
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 394
+Total number of records retrieved from searches: 2671
+Number of download events that retrieved data from the resource: 372
+Total number of records downloaded: 48320
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
