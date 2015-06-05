@@ -1,0 +1,327 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 1144
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 163
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 13
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 11
+	Date: 2015-05-08 ; Times: 10
+	Date: 2015-05-09 ; Times: 6
+	Date: 2015-05-10 ; Times: 15
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-16 ; Times: 19
+	Date: 2015-05-18 ; Times: 9
+	Date: 2015-05-19 ; Times: 6
+	Date: 2015-05-20 ; Times: 20
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 20
+	Date: 2015-05-23 ; Times: 11
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 7
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aristelliger georgeensis" ; Times: 5
+	Query: "specificepithet:reticulatus genus:crotaphytus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "dendrobates tinctorius" ; Times: 1
+	Query: "county:"San Diego" specificepithet:elegans genus:Thamnophis" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:plumifrons genus:BAsiliscus" ; Times: 1
+	Query: "Uma notata county:"Imperial"" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 3
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 3
+	Query: "catalognumber:19495 institutioncode:mpm" ; Times: 2
+	Query: "Crotaphytus reticulatus" ; Times: 3
+	Query: "Eurycea longicauda and Ohio" ; Times: 1
+	Query: "country:"Mexico" specificepithet:coahuila genus:Terrapene year >= 1960 year <= 2015" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "Thamnophis sirtalis idaho" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:"Tennessee"" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Phyllomedusa lemur" ; Times: 2
+	Query: "catalognumber:19494 institutioncode:MPM" ; Times: 3
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 2
+	Query: "country:"Mexico" specificepithet:coahuila genus:Terrapene year >= 1970 year <= 2015" ; Times: 1
+	Query: "county:"Kenosha" stateprovince:"Wisconsin" class:Amphibia" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "phrynosoma hernandesi otero county" ; Times: 1
+	Query: "marquette chrysemys" ; Times: 3
+	Query: "marquette ophisaurus" ; Times: 3
+	Query: "thamnophis sirtalis dakota" ; Times: 1
+	Query: "mcallii" ; Times: 2
+	Query: "stateprovince:"Wisconsin" genus:Ambystoma" ; Times: 2
+	Query: "stateprovince:"Masaya" country:"Nicaragua" class:Reptilia AND (NOT KU)" ; Times: 1
+	Query: "country:"Panama" genus:Dipsas" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:lepidus genus:crotalus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Mabuya" ; Times: 3
+	Query: "wisconsin horicon marsh" ; Times: 2
+	Query: ""Phyllobates lugubris"" ; Times: 2
+	Query: "amphisbaena gonavensis" ; Times: 2
+	Query: "country:"Nicaragua" genus:Corytophanes" ; Times: 1
+	Query: "country:"Nicaragua" genus:Gymnophthalmus" ; Times: 2
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT mexico)" ; Times: 1
+	Query: "stateprovince:"Arkansas" specificepithet:scutatum genus:Hemidactylium" ; Times: 1
+	Query: "montello" ; Times: 1
+	Query: "browni arizona" ; Times: 3
+	Query: "heterodon montello" ; Times: 1
+	Query: "Crotalus horridus type:observation" ; Times: 1
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "sceloporus tamaulipas san fernando" ; Times: 1
+	Query: "catalognumber:19495 institutioncode:MPM" ; Times: 3
+	Query: "python reticulatus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: ""catenatus" stateprovince:"Texas"" ; Times: 1
+	Query: "trempealeau heterodon" ; Times: 3
+	Query: "crawfordville stateprovince:"florida"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:hirtipes genus:Kinosternon year >= 1970 year <= 2015" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:quadrilineata genus:Ameiva AND (NOT KU)" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas san fernando" ; Times: 1
+	Query: "catalognumber:19496 institutioncode:MPM" ; Times: 2
+	Query: "country:"Nicaragua" genus:Lepidodactylus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "Crotalus atrox Nevada" ; Times: 1
+	Query: "county:"val verde" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "nerodia montello" ; Times: 2
+	Query: "marquette heterodon" ; Times: 2
+	Query: "wisconsin vernalis" ; Times: 3
+	Query: "Leiocephalus stictigaster" ; Times: 1
+	Query: "schwartz stateprovince:"north carolina" class:reptilia" ; Times: 1
+	Query: "Lampropeltis pyromelana Arizona" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "wisconsin nasicus" ; Times: 1
+	Query: "marquette nerodia" ; Times: 1
+	Query: "specificepithet:hechti genus:Aristelliger" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "country:"Nicaragua" genus:Gonatodes" ; Times: 2
+	Query: "reptilia san fernando tamaulipas" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "emydoidea wisconsin" ; Times: 1
+	Query: "bufo alvarius" ; Times: 5
+	Query: "trempealeau ambystoma" ; Times: 4
+	Query: "Eleutherodactylus ranoides" ; Times: 2
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "rana vibicaria" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "elaphe montello" ; Times: 2
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "phyllomedusa lemur" ; Times: 2
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "trempealeau coluber" ; Times: 3
+	Query: "country:"Panama" genus:Lachesis" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 2
+	Query: "stateprovince:"colima" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "Storeria dekayi Wisconsin" ; Times: 4
+	Query: "Charina bottae" ; Times: 2
+	Query: "country:"Costa Rica" genus:Loxocemus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Gymnophthalmus AND (NOT KU)" ; Times: 1
+	Query: "sphaerodactylus darlingtoni" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:leucostomum genus:Kinosternon AND (NOT KU)" ; Times: 1
+	Query: "trempealeau notophthalmus" ; Times: 2
+	Query: "ambystoma dumerilii" ; Times: 2
+	Query: "marquette elaphe" ; Times: 2
+	Query: "Lichanura" ; Times: 6
+	Query: "stateprovince:"Zelaya" country:"Nicaragua" class:Reptilia AND (NOT KU)" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:squamosus genus:Sceloporus AND (NOT KU)" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "crotaphytus county:"kinney" stateprovince:"texas"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:spinifera genus:Apalone year >= 1970 year <= 2015" ; Times: 1
+	Query: "country:"Belize" genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 2
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia" ; Times: 4
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:vittatus genus:BAsiliscus" ; Times: 2
+	Query: "reptilia tamaulipas san fernando" ; Times: 2
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:MPM" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "marquette opheodrys" ; Times: 2
+	Query: "Mabuya heathi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 976 download events in this period)
+Total number of records downloaded: 7646 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5863
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 83
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 12
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 5
+	Date: 2015-05-21 ; Times: 29
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 12
+	Date: 2015-05-26 ; Times: 8
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 7
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alytes" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "country:"Mexico" specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "arizona elegans" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "sceloporus bimaculosus" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Desmognathus stateprovince:"Mississippi"" ; Times: 1
+	Query: "hydrophis" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "multivirgatus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Storeria dekayi Wisconsin" ; Times: 3
+	Query: "Underwood" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "ambystoma dumerilii" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "naja" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "bipes biporus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "reptilia tamaulipas san fernando" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:amphibia" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 662
+Total number of records retrieved from searches: 4723
+Number of download events that retrieved data from the resource: 246
+Total number of records downloaded: 36360
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 730
+Total number of records retrieved from searches: 5150
+Number of download events that retrieved data from the resource: 585
+Total number of records downloaded: 80294
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
