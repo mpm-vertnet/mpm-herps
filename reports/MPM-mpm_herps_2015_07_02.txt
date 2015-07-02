@@ -1,0 +1,309 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 1412
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Panama ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 163
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 11
+	Date: 2015-06-02 ; Times: 6
+	Date: 2015-06-03 ; Times: 8
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 13
+	Date: 2015-06-08 ; Times: 24
+	Date: 2015-06-09 ; Times: 6
+	Date: 2015-06-10 ; Times: 6
+	Date: 2015-06-11 ; Times: 4
+	Date: 2015-06-12 ; Times: 5
+	Date: 2015-06-13 ; Times: 2
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 5
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-20 ; Times: 7
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-22 ; Times: 11
+	Date: 2015-06-23 ; Times: 5
+	Date: 2015-06-24 ; Times: 11
+	Date: 2015-06-25 ; Times: 8
+	Date: 2015-06-26 ; Times: 20
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 2
+	Date: 2015-06-29 ; Times: 17
+	Date: 2015-06-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Brown" stateprovince:"Wisconsin" class:amphibia" ; Times: 1
+	Query: "Sceloporus san fernando tamaulipas" ; Times: 2
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 1
+	Query: "Eleutherodactylus taylori" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Thamnophis Guerrero" ; Times: 2
+	Query: "oxybelis fulgidus" ; Times: 4
+	Query: "Coniophanes bipunctatus" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "SCELOPORUS SAN FERNANDO TAMAULIPAS" ; Times: 1
+	Query: "elaphe door" ; Times: 6
+	Query: "melanoleucus melanoleucus stateprovince:"North Carolina" country:"United States" specificepithet:melanoleucus genus:pituophis" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 4
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "ranidae institutioncode:MPM" ; Times: 1
+	Query: "Lampropeltis granville county" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia" ; Times: 3
+	Query: "country:"Costa Rica" specificepithet:bicolor genus:Loxocemus" ; Times: 1
+	Query: "Anolis Insolitus" ; Times: 2
+	Query: "county:"Brown" stateprovince:"Wisconsin" class:amphibia year <= 2015" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 4
+	Query: "bufonidae institutioncode:MPM" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Helicops" ; Times: 1
+	Query: "Notophthalmus viridescens stateprovince:"Michigan" country:"United States"" ; Times: 3
+	Query: "lampropeltis door" ; Times: 1
+	Query: "anolis carolinensis (orange county)" ; Times: 1
+	Query: "type:specimen specificepithet:georgeensis genus:aristelliger" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "guttata tyrrell" ; Times: 2
+	Query: "specificepithet:annulatus genus:Corallus" ; Times: 1
+	Query: "nerodia door" ; Times: 4
+	Query: "crocodylus cataphractus" ; Times: 1
+	Query: "pseudacris triseriata year >= 2000 year <= 2015" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 1
+	Query: "Pituophis Wyoming" ; Times: 4
+	Query: "country:"Colombia" genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:temporalis genus:Dipsas" ; Times: 1
+	Query: "dipsas temporalis" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "cryptobranchus kentucky" ; Times: 3
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "specificepithet:veliferum genus:Amastridium" ; Times: 2
+	Query: "county:"Montour" stateprovince:"Pennsylvania" class:Reptilia" ; Times: 1
+	Query: ""urosaurus graciosus" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "Phrynosomatidae san fernando tamaulipas" ; Times: 1
+	Query: "specificepithet:venustissimus genus:Scaphiodontophis" ; Times: 1
+	Query: "aRIZONA CROTALUS MOLOSSUS" ; Times: 1
+	Query: "tantilla annulata" ; Times: 5
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "specificepithet:freminvillei genus:Stenorrhina" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:annulatus genus:Corallus" ; Times: 1
+	Query: "country:"Panama" specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "county:"sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus year >= 1888 year <= 2015" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "podocnemis" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "anolis baleatus" ; Times: 4
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "country:"Panama" genus:Tantilla" ; Times: 1
+	Query: "Platte county elaphe" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "melanoleucus melanoleucus stateprovince:"North Carolina" country:"United States" genus:pituophis" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" genus:Pseudoboa" ; Times: 1
+	Query: "Phyllobates lugubris" ; Times: 1
+	Query: "specificepithet:atrocinctus genus:Scolecophis" ; Times: 1
+	Query: "Amphisbaena hyporissor" ; Times: 1
+	Query: "SMNS celestus" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 2
+	Query: "GC-2004-13" ; Times: 1
+	Query: "specificepithet:depressirostris genus:Leptophis" ; Times: 1
+	Query: "storeria door" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:melanoleucus genus:pituophis" ; Times: 5
+	Query: "country:"Nicaragua" specificepithet:lineatus genus:Conophis" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "thamnophis sirtalis door" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" country:"United States" genus:Lampropeltis class:Reptilia" ; Times: 1
+	Query: "specificepithet:alleni genus:Micrurus" ; Times: 1
+	Query: "county:"marshall" stateprovince:"Oklahoma" class:reptilia" ; Times: 1
+	Query: "thamnophis door" ; Times: 4
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "county:"Alger" stateprovince:"Michigan" country:"United States" class:Amphibia" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Bothrops" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" genus:Dipsas" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Micrurus" ; Times: 1
+	Query: "rana institutioncode:MPM (dry)" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "graptemys pulchra" ; Times: 2
+	Query: "ranidae institutioncode:MPM (dry)" ; Times: 1
+	Query: "country:"Colombia" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "bothrops jararaca" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Chironius" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 5
+	Query: "Corytophanes cristatus" ; Times: 5
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Pseustes" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "county:"Brown" stateprovince:"Wisconsin" class:reptilia year <= 2015" ; Times: 1
+	Query: "phrynosomatidae san fernando tamaulipas" ; Times: 1
+	Query: "Amphisbaena cubana" ; Times: 1
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "Opheodrys vernalis stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "Triangulum north carolina" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "stateprovince:"Michoacan" genus:Thamnophis" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia AND (NOT TCWC)" ; Times: 7
+	Query: "bufonidae institutioncode:MPM AND (NOT ethanol)" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" genus:Oxybelis" ; Times: 1
+	Query: "cryptobranchus Pennsylvania" ; Times: 4
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia institutioncode:MPM" ; Times: 2
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:MPM" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1524 download events in this period)
+Total number of records downloaded: 3220 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3117
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Paraguay ; Times: 2
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 9
+	Date: 2015-06-04 ; Times: 10
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 5
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 5
+	Date: 2015-06-26 ; Times: 7
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "county:"sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus year >= 1888 year <= 2015" ; Times: 1
+	Query: ""sceloporus magister" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Eleutherodactylus taylori" ; Times: 1
+	Query: "Bufo mazatlanensis" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "type:specimen genus:Leposoma" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "curanja class:amphibia" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "country:"paraguay" class:amphibia" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 1
+	Query: "Nerodia sipedon stateprovince:"North Carolina"" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 1
+	Query: "Bufonidae (occidentalis)" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "country:"paraguay" class:reptilia" ; Times: 1
+	Query: "Bufonidae (canaliferus)" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+	Query: "Eleutherodactylus mexicanus" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Eleutherodactylus montanus" ; Times: 1
+	Query: "zacatecas amphibia" ; Times: 1
+	Query: "Bufonidae (mazatlanensis)" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "bufo microscaphus" ; Times: 1
+	Query: "Eleutherodactylus rugulosus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "Bufonidae (coniferus)" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: ""sceloporus jarrovii" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "Anolis chlorocyanus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 864
+Total number of records retrieved from searches: 6135
+Number of download events that retrieved data from the resource: 315
+Total number of records downloaded: 39580
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 932
+Total number of records retrieved from searches: 6562
+Number of download events that retrieved data from the resource: 654
+Total number of records downloaded: 83514
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
