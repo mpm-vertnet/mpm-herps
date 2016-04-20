@@ -1,0 +1,82 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "anolis ortoni" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 2
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 230 download events in this period)
+Total number of records downloaded: 7934
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Bothrops asper" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
