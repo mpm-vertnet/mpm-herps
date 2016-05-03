@@ -1,0 +1,218 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1656
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Czech Republic ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 99
+	Country: Germany ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 14
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-18 ; Times: 9
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-11 ; Times: 17
+	Date: 2016-04-12 ; Times: 10
+	Date: 2016-04-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:ruschenbergerii genus:Corallus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Crotalus viridis Navajo Arizona" ; Times: 2
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:palleucus" ; Times: 1
+	Query: "pelamis platurus costa rica" ; Times: 1
+	Query: "viperidae belize" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "Eryx johni" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 7
+	Query: "Macrochelys temmincki" ; Times: 1
+	Query: "necturus blair" ; Times: 1
+	Query: "ameiva (St. Eustatius)" ; Times: 1
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:palleucus year &gt;= 1960" ; Times: 1
+	Query: "blanus" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 3
+	Query: "26214" ; Times: 1
+	Query: "SVL 44" ; Times: 5
+	Query: "eurycea spelaeus" ; Times: 8
+	Query: "stateprovince:&#34;California&#34; institutioncode:MPM" ; Times: 6
+	Query: "genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "institutioncode:mpm" ; Times: 1
+	Query: "cryptobranchus blair" ; Times: 1
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "agalychnis moreletti" ; Times: 1
+	Query: "class:Reptilia county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode: mpm" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "necturus blair county" ; Times: 1
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "specificepithet:barlagnei genus:Eleutherodactylus" ; Times: 1
+	Query: "stilosoma" ; Times: 3
+	Query: "Pseudacris feriarum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cryptobranchus bishopi" ; Times: 2
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "specificepithet:palleucus year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "painted turtles" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Masticophis flagellum Sinaloa" ; Times: 2
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:pinchoni genus:Eleutherodactylus" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "locality:Island stateprovince:&#34;California&#34; institutioncode:MPM" ; Times: 1
+	Query: "Kinixys smns" ; Times: 8
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (lichanura)" ; Times: 5
+	Query: "Holbrookia lacerata" ; Times: 1
+	Query: "Kinixys" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Coleonyx" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (gracia)" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Agalychnis moreletti" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:altamazonica" ; Times: 1
+	Query: "eublepharis" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "imantodes lentiferus" ; Times: 1
+	Query: "Phrynosoma mcallii Yuma county" ; Times: 1
+	Query: "Pituophis melanoleucus craig" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1312 download events in this period)
+Total number of records downloaded: 16301
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "ameiva tobago" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "Kinixys smns" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "thorius" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "locality:Island stateprovince:&#34;California&#34; institutioncode:MPM" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+
+
+End of report.
