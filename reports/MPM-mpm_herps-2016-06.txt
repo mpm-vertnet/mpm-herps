@@ -1,0 +1,243 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 897
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 83
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Fiji ; Times: 2
+	Country: Dominican Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 5
+	Date: 2016-06-24 ; Times: 5
+	Date: 2016-06-23 ; Times: 8
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 5
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-03 ; Times: 22
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-11 ; Times: 9
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "MPM 191" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Chelus fimbriatus" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus county:&#34;mobile&#34; stateprovince:&#34;Alabama&#34; (Alabama) year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 3
+	Query: "Sphenodon" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Plethodon jordani stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "institutioncode:MPM" ; Times: 1
+	Query: "anolis insolitus" ; Times: 1
+	Query: "plethodon longicrus" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 7
+	Query: "Reptilia illinois cass" ; Times: 2
+	Query: "11139" ; Times: 3
+	Query: "Blandingii iowa" ; Times: 1
+	Query: "Heterodon simus North Carolina" ; Times: 1
+	Query: "specificepithet:septentrionalis family:Scincidae class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:bufonidae order:anura county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "Celestus agasepsoides" ; Times: 1
+	Query: "Crotalus lepidus klauberi stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "Rhinoclemmys funerea" ; Times: 1
+	Query: "Sphaerodactylus armstrongi" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia 16156" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Geochelone radiata" ; Times: 2
+	Query: "macrodactylum idaho" ; Times: 1
+	Query: "Reptilia 18384" ; Times: 1
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "Reptilia 26127" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Holbrookia type:specimen (ruthveni maculata)" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "sphaerodactylus streptophorus" ; Times: 1
+	Query: "Reptilia 20454" ; Times: 1
+	Query: "Reptilia 18280" ; Times: 2
+	Query: "Reptilia 20872" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "Notophthalmus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Reptilia iowa johnson" ; Times: 2
+	Query: "Kinosternon subrubrum oklahoma" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "Plethodon jordani stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "ctenosaura quinquecarinata" ; Times: 1
+	Query: "order:Squamata county:&#34;Major&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "bothrops quintana" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "13164 reptilia" ; Times: 1
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Gyrinophilus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "cylindrophis" ; Times: 2
+	Query: "25087" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Lepidochelys kempi" ; Times: 1
+	Query: "Reptilia 20167" ; Times: 1
+	Query: "Reptilia 20166" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 6
+	Query: "Reptilia catalognumber:16754" ; Times: 1
+	Query: "Sceloporus undulatus (Mobile)" ; Times: 1
+	Query: "Reptilia 26302" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "Reptilia 22338" ; Times: 1
+	Query: "Necturus stateprovince:&#34;Wisconsin&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 2
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "Anolis baleatus" ; Times: 1
+	Query: "Reptilia 19393" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1052 download events in this period)
+Total number of records downloaded: 5431
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-20 ; Times: 11
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 14
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "celestus stenurus" ; Times: 1
+	Query: "desmognathus auriculatus (florida)" ; Times: 1
+	Query: "Holbrookia maculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Heterodon simus North Carolina" ; Times: 1
+	Query: "celestus curtissi" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "crotalus (county:riverside)" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "ctenosaura hemilopha" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "abronia graminea" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 3
+	Query: "pituophis North Carolina" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "celestus costatus" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "Lepidochelys kempi" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "ctenosaura quinquecarinata" ; Times: 1
+
+
+End of report.
