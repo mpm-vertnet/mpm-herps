@@ -1,0 +1,315 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 269
+Number of records retrieved in searches: 2361
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 150
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 108
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 6
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 9
+	Date: 2018-01-18 ; Times: 5
+	Date: 2018-01-31 ; Times: 14
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 10
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-17 ; Times: 65
+	Date: 2018-01-16 ; Times: 7
+	Date: 2018-01-24 ; Times: 50
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 8
+	Date: 2018-01-29 ; Times: 8
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-26 ; Times: 4
+	Date: 2018-01-01 ; Times: 7
+	Date: 2018-01-06 ; Times: 8
+	Date: 2018-01-21 ; Times: 5
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-07 ; Times: 13
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 8
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla schistosa" ; Times: 2
+	Query: "Under carpet country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Clelia clelia" ; Times: 2
+	Query: "storeria wood wisconsin" ; Times: 1
+	Query: "Anolis rodriguezi" ; Times: 2
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "thamnophis wood wisconsin" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Coniophanes bipunctatus" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Eumeces county:&#34;Polk&#34; stateprovince:&#34;Wisconsin&#34; institutioncode:MPM" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "necturus wisconsin bayfield" ; Times: 1
+	Query: "causus resimus" ; Times: 1
+	Query: "ophisaurus juneau wisconsin" ; Times: 1
+	Query: "genus:Gonatodes country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "Sphaerodactylus glaucus" ; Times: 3
+	Query: "Boa imperator" ; Times: 2
+	Query: "monroe wisconsin opheodrys" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Aneides county:&#34;San mateo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "MPM 11682" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 2
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "specificepithet:boylii genus:Rana stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "sceloporus undulatus alabama" ; Times: 2
+	Query: "Under carpet year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "sistrurus columbia wisconsin" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Wisconsin&#34; year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces county:&#34;Polk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1990" ; Times: 1
+	Query: "sistrurus walworth" ; Times: 7
+	Query: "Breeding pond country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Birch Island" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Ficimia olivacea" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 1
+	Query: "sphenodon punctatus" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "stateprovince:&#34;north carolina&#34; Apalone spinifera" ; Times: 1
+	Query: "Under rock class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Apalone mutica stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "milwaukee museum crotalus atrox" ; Times: 7
+	Query: "Sphaerodactylus millepunctatus" ; Times: 2
+	Query: "necturus wisconsin eau claire" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "Anolis biporcatus" ; Times: 2
+	Query: "Corallus" ; Times: 6
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Leptodeira polysticta" ; Times: 2
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "monroe wisconsin storeria" ; Times: 1
+	Query: "monroe wisconsin ambystoma" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "monroe wisconsin elaphe" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "sternotherus odoratus united states Mississippi" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Eumeces FASCIATUS missouri" ; Times: 1
+	Query: "mississippi apalone spinifera" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:MPM" ; Times: 1
+	Query: "storeria dekayi wood wisconsin" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Wisconsin&#34; institutioncode:MPM" ; Times: 1
+	Query: "ophisaurus wisconsin" ; Times: 1
+	Query: "Sceloporus teapensis" ; Times: 2
+	Query: "sistrurus sauk wisconsin" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "Anolis capito" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Eumeces stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Pliocercus elapoides" ; Times: 2
+	Query: "walworth sistrurus" ; Times: 2
+	Query: "Stenorrhina degenhardtii" ; Times: 2
+	Query: "genus:Thecadactylus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "plethodontid" ; Times: 1
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia continent:North America institutioncode:MPM" ; Times: 1
+	Query: "apalone mutica united states Mississippi" ; Times: 4
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:MPM" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "Scaphiodontophis annulatus" ; Times: 2
+	Query: "mississippi apalone mutica" ; Times: 1
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;Del Norte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "monroe wisconsin thamnophis" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 2
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces stateprovince:&#34;Wisconsin&#34; institutioncode:MPM" ; Times: 1
+	Query: "Rhadinaea laureata" ; Times: 2
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "specificepithet:cuniculator genus:Tantilla country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:stormi genus:Plethodon county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Camden county Ambystoma" ; Times: 1
+	Query: "elaphe wood wisconsin" ; Times: 1
+	Query: "sistrurus catenatus wisconsin" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; Pituophis melanoleucus" ; Times: 2
+	Query: "mpm h 5392" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "opheodrys wood wisconsin" ; Times: 1
+	Query: "genus:boa year &lt;= 1925" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Dominican Republic&#34; year &gt;= 1980" ; Times: 1
+	Query: "Bufo guentheri" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "juneau wisconsin elaphe" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "specificepithet:talpoideum genus:ambystoma stateprovince:&#34;north carolina&#34; (cherokee OR clay OR macon)" ; Times: 1
+	Query: "Agkistrodon halys" ; Times: 1
+	Query: "genus:Pelamis continent:Asia" ; Times: 1
+	Query: "stateprovince:&#34;Montana&#34; institutioncode:MPM" ; Times: 1
+	Query: "Field board country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 2
+	Query: "Tretanorhinus nigroluteus" ; Times: 2
+	Query: "genus:trimorphodon county:&#34;riverside&#34;" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 2
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "Crex Crex" ; Times: 3
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "necedah" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "monroe wisconsin sistrurus" ; Times: 2
+	Query: "thamnophis sirtalis wood wisconsin" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces year &gt;= 1990 institutioncode:MPM" ; Times: 2
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Under log class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Corytophanes cristatus" ; Times: 2
+	Query: "Leptodeira frenata" ; Times: 2
+	Query: "monroe wisconsin elaphe vulpina" ; Times: 1
+	Query: "Sceloporus lundelli" ; Times: 2
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Eumeces county:&#34;Polk&#34; stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "milwaukee museum atrox" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 5
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "genus:Aneides county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "apalone mutica united states Mississippi state" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces stateprovince:&#34;Wisconsin&#34; year &gt;= 1990 institutioncode:MPM" ; Times: 1
+	Query: "class:amphibia locality:zapotitlan stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "wisconsin sistrurus hay" ; Times: 1
+	Query: "chelydra serpentina united states Mississippi" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "sistrurus wisconsin" ; Times: 2
+	Query: "specificepithet:Ebraccata stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Wisconsin&#34; institutioncode:MPM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1398 download events in this period)
+Total number of records downloaded: 3590
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 52
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-30 ; Times: 8
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon stormi" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Apalone mutica stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "anolis luciae" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces year &gt;= 1990 institutioncode:MPM" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:exsul genus:bufo" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "Rana aurora" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Wisconsin&#34; year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "aneides lugubris" ; Times: 1
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia continent:North America institutioncode:MPM" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+
+
+End of report.
