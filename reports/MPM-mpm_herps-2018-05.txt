@@ -1,0 +1,365 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 9194
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 202
+	Country: Colombia ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 9
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 45
+	Date: 2018-05-24 ; Times: 34
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 5
+	Date: 2018-05-07 ; Times: 8
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 7
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 35
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 12
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris institutioncode:MPM" ; Times: 6
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT MCZ NOT ANOLIS ) institutioncode:MPM" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "distance(location,geopoint(45.2521729495,-92.422245926))&lt;19803" ; Times: 2
+	Query: "RMB 1018" ; Times: 2
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:MPM" ; Times: 4
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "genus:Farancia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana institutioncode:MPM" ; Times: 3
+	Query: "Gyrinophilus palleucus" ; Times: 2
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:MPM" ; Times: 3
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:temporaria genus:Rana institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:MPM" ; Times: 3
+	Query: "&#34;Crotalus atrox&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:pluvianotata genus:Ameiva" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT MCZ NOT LACM NOT AMNH) institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus institutioncode:MPM" ; Times: 3
+	Query: "gambelia washoe county" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;san bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:MPM" ; Times: 3
+	Query: "genus:Abronia class:Reptilia" ; Times: 1
+	Query: "jackson sistrurus" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34; institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "Bolitoglossa chica" ; Times: 1
+	Query: "specificepithet:viridiflavus genus:Hyperolius institutioncode:MPM" ; Times: 3
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:quadridigitata genus:eurycea stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "micrurus alleni" ; Times: 1
+	Query: "ameiva pluvianotata" ; Times: 1
+	Query: "Abronia taeniata graminea" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "monroe sistrurus" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; institutioncode:MPM" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "Micrurus hippocrepis" ; Times: 1
+	Query: "Eleutherodactylus glaucoreius" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "juneau sistrurus" ; Times: 10
+	Query: "specificepithet:fourchensis genus:plethodon year &gt;= 1980" ; Times: 1
+	Query: "Hemidactylium Arkansas" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Hemisus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:MPM" ; Times: 3
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 2
+	Query: "Gambelia Washoe county" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Honduras&#34;" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:MPM" ; Times: 3
+	Query: "Phaeognathus hubrichti" ; Times: 2
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:MPM" ; Times: 4
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "genus:amphiuma stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:MPM" ; Times: 5
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:MPM" ; Times: 3
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "thamnophis butleri ohio" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:MPM" ; Times: 3
+	Query: "sphaerodactylus microlepis" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:MPM" ; Times: 3
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren (&#34;ditch&#34;)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT MCZ NOT LACM)" ; Times: 1
+	Query: "genus:rhyacotriton county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 2
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:MPM" ; Times: 3
+	Query: "Anolis christophei" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:MPM" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:MPM" ; Times: 3
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana institutioncode:MPM" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT MCZ NOT LACM NOT AMNH)" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 2018" ; Times: 2
+	Query: "clonophis kirtlandii ohio" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:MPM" ; Times: 3
+	Query: "lampropeltis triangulum new jersey" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Churchill&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;arkansas&#34; (&#34;ditch&#34;)" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:picta genus:Chrysemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "payton s" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 158 (out of 1178 download events in this period)
+Total number of records downloaded: 5356
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 28
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 51
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 71
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 4
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 8
+	Date: 2018-05-22 ; Times: 6
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 7
+	Date: 2018-05-06 ; Times: 8
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 23
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 10
+	Date: 2018-05-19 ; Times: 16
+	Date: 2018-05-18 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "genus:farancia sex:male OR female" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "oedipina" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "specificepithet:muscosa genus:Rana" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Bolitoglossa chica" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Chiropterotriton priscus" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Pseudobranchus axanthus" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Abronia graminea" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "Hynobius tsuensis" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bolitoglossa striatula" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Abronia taeniata graminea" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "Abronia vntype:specimen (Reptilia)" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
