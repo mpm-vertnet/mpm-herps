@@ -1,0 +1,311 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 625
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 110
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 24
+	Country: Unknown ; Times: 25
+	Country: Dominican Republic ; Times: 5
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-14 ; Times: 9
+	Date: 2018-08-15 ; Times: 6
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 11
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-27 ; Times: 7
+	Date: 2018-08-26 ; Times: 6
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-22 ; Times: 11
+	Date: 2018-08-21 ; Times: 29
+	Date: 2018-08-20 ; Times: 28
+	Date: 2018-08-05 ; Times: 6
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-01 ; Times: 9
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:dENDROBATIDAE country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Belize&#34;" ; Times: 1
+	Query: "eleutherodactylus barlagnei" ; Times: 1
+	Query: "Arkansas Wilson lampropeltis" ; Times: 1
+	Query: "Eleutherodactylus patriciae" ; Times: 1
+	Query: "chrysemys mississippi" ; Times: 3
+	Query: "13353" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Ambystoma laterale mappable:1" ; Times: 2
+	Query: "order:Gymnophiona country:&#34;Nicaragua&#34;" ; Times: 19
+	Query: "class:amphibia locality:zion county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum mappable:1" ; Times: 1
+	Query: "elaphe obsoleta mississippi" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "rusty crayfish" ; Times: 1
+	Query: "RMB 3279" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon (red)" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "class:reptilia county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Rana taylori" ; Times: 4
+	Query: "Graptemys geographica Texas" ; Times: 1
+	Query: "Stock class:reptilia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Providence genus:Diadophis" ; Times: 3
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 24
+	Query: "class:Reptilia locality:Cartagena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:MPM" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus locality:Chiricahua county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "family:Dendrobatidae country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Barisia imbricata mexico" ; Times: 1
+	Query: "Mabuya brachypoda" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "Eleutherodactylus pinchoni" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "GRABHAMI" ; Times: 1
+	Query: "genus:Oedipina country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:cataphractus family:Crocodylidae" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "bajos louisiana" ; Times: 2
+	Query: "24921" ; Times: 1
+	Query: "Corallus ruschenbergerii" ; Times: 1
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 3
+	Query: "vntype:specimen genus:Anolis country:&#34;Jamaica&#34; year &gt;= 1900 year &lt;= 2018 institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Eumeces county:&#34;Monroe&#34;" ; Times: 1
+	Query: "genus:Gyrinophilus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:lividus genus:anolis locality:plymouth" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Chironius vincenti" ; Times: 5
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "Eleutherodactylus barlagnei" ; Times: 2
+	Query: "Porras stateprovince:&#34;Louisiana&#34;" ; Times: 4
+	Query: "specificepithet:coqui genus:Eleutherodactylus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "recordedby:Tom Anton year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "RMB 4456" ; Times: 2
+	Query: "Helicops angulatus" ; Times: 7
+	Query: "morph genus:Plethodon" ; Times: 3
+	Query: "vogelsang lake" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "bajos louisiana class:reptilia" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "Euhyas" ; Times: 1
+	Query: "Nigronuchalis durango" ; Times: 3
+	Query: "salvadorensis family:hylidae" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:lividus genus:anolis locality:galway" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "specificepithet:laterale genus:Leiolopisma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 1416 download events in this period)
+Total number of records downloaded: 14698
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 38
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: Spain ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 14
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 6
+	Date: 2018-08-10 ; Times: 12
+	Date: 2018-08-08 ; Times: 8
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 6
+	Date: 2018-08-24 ; Times: 15
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-21 ; Times: 6
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "specificepithet:altamazonica genus:Bolitoglossa" ; Times: 1
+	Query: "order:Gymnophiona country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "specificepithet:(lineatopus OR valencienni) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "genus:Proteus" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "specificepithet:chica genus:Bolitoglossa" ; Times: 1
+	Query: "eleutherodactylus johnstonei" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "genus:anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "Mabuya brachypoda" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:(lemurinus OR bicaorum OR utilensis) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "genus:Anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "vntype:specimen genus:Anolis country:&#34;Jamaica&#34; year &gt;= 1900 year &lt;= 2018 institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "class:reptilia county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "specificepithet:(lineatopus OR valencienni) genus:Anolis year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "genus:Emydoidea OR Emys sex:male OR female" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "specificepithet:palmipes genus:Rana" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Sceloporus formosus formosus" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "psammophylax" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+
+End of report.
