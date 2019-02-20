@@ -1,0 +1,259 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 4872
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 208
+	Country: Bonaire ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 3
+	Country: Saint Kitts and Nevis ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 9
+	Date: 2019-01-18 ; Times: 8
+	Date: 2019-01-19 ; Times: 31
+	Date: 2019-01-14 ; Times: 11
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-13 ; Times: 6
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 14
+	Date: 2019-01-06 ; Times: 6
+	Date: 2019-01-05 ; Times: 10
+	Date: 2019-01-04 ; Times: 29
+	Date: 2019-01-21 ; Times: 20
+	Date: 2019-01-20 ; Times: 23
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 8
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 12
+	Date: 2019-01-27 ; Times: 7
+	Date: 2019-01-08 ; Times: 10
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla schistosa" ; Times: 2
+	Query: "elaphe columbia wisconsin" ; Times: 1
+	Query: "Reptilia Arkansas lafayette" ; Times: 2
+	Query: "Reptilia Arkansas ouachita" ; Times: 6
+	Query: "Agalychnis moreletti" ; Times: 1
+	Query: "Reptilia Wisconsin marquette" ; Times: 1
+	Query: "dane wisconsin coluber" ; Times: 1
+	Query: "Emydoidea blandingii wisconsin" ; Times: 3
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 3
+	Query: "Cryptobranchus bishopi" ; Times: 10
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "Reptilia Arkansas union" ; Times: 3
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:coluber locality:Hwy 116" ; Times: 1
+	Query: "Reptilia Wisconsin lacrosse" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "16264" ; Times: 1
+	Query: "Vernalis wisconsin" ; Times: 20
+	Query: "Reptilia Wisconsin columbia" ; Times: 6
+	Query: "richland wisconsin pituophis" ; Times: 1
+	Query: "sistrurus walworth" ; Times: 3
+	Query: "rmb 1507" ; Times: 2
+	Query: "family:colubridae locality:alamos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "reptilia arkansas cleveland" ; Times: 1
+	Query: "72 ornata" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 5
+	Query: "specificepithet:scutatum genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Anolis smallwoodi" ; Times: 1
+	Query: "elaphe eau claire" ; Times: 1
+	Query: "class:amphibia county:&#34;Clark&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Micrurus arkansas" ; Times: 1
+	Query: "class:amphibia county:&#34;clatsop&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "coluber eau claire" ; Times: 1
+	Query: "cnemidophorus apache arizona" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "notophthalmus trempealeau" ; Times: 2
+	Query: "family:colubridae catalognumber:11956" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "ophisaurus attenuatus wisconsin" ; Times: 1
+	Query: "ambystoma maculatum north carolina" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; institutioncode:MPM" ; Times: 1
+	Query: "Reptilia wisconsin columbia" ; Times: 3
+	Query: "ambystoma trempealeau" ; Times: 2
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "stateprovince:&#34;louisiana&#34; (porras)" ; Times: 1
+	Query: "monroe wisconsin elaphe" ; Times: 1
+	Query: "clemmys wisconsin" ; Times: 8
+	Query: "Reptilia Arkansas nevada" ; Times: 1
+	Query: "Reptilia Wisconsin monroe" ; Times: 1
+	Query: "juneau sistrurus" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "specificepithet:annulata genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "ophisaurus wisconsin" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "clemmys wisconsin jackson" ; Times: 1
+	Query: "Reptilia Wisconsin Juneau" ; Times: 2
+	Query: "class:Reptilia county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia Wisconsin rock" ; Times: 3
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "sphaerodactylus sputator" ; Times: 2
+	Query: "warreni" ; Times: 1
+	Query: "Reptilia Wisconsin Sauk" ; Times: 3
+	Query: "Regina Oklahoma mccurtain" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "storeria occipitomaculata rock wisconsin" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Sistrurus Missouri" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34; institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus columbia" ; Times: 2
+	Query: "Reptilia Wisconsin la crosse" ; Times: 1
+	Query: "Reptilia Arkansas hempstead" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "sistrurus juneau" ; Times: 4
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "specificepithet:hechti genus:Aristelliger" ; Times: 1
+	Query: "genus:thecadactylus continent:North America" ; Times: 2
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:MPM" ; Times: 1
+	Query: "Vernalis illinois" ; Times: 4
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "buffalo wisconsin trempealeau" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 1
+	Query: "opheodrys la-crosse" ; Times: 2
+	Query: "1950 genus:Sauromalus" ; Times: 1
+	Query: "Reptilia arkansas nevada" ; Times: 1
+	Query: "clemmys wisconsin crawford" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Guyana&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Comal&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia country:&#34;Sint Eustatius&#34;" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "specificepithet:longicauda genus:eurycea county:&#34;Tishomingo&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "elaphe columbia" ; Times: 3
+	Query: "reptilia arkansas clark" ; Times: 1
+	Query: "rhineura" ; Times: 2
+	Query: "Mutica wisconsin" ; Times: 4
+	Query: "reptilia arkansas dallas" ; Times: 1
+	Query: "order:anura preparations:skeleton OR dry hasmedia:1" ; Times: 1
+	Query: "monroe wisconsin sistrurus" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "genus:Scolecophis" ; Times: 1
+	Query: "clemmys wisconsin trempealeau" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "leon county amphiuma" ; Times: 1
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "Calloselasma" ; Times: 1
+	Query: "Emydoidea Wisconsin" ; Times: 3
+	Query: "amphibia arkansas nevada" ; Times: 2
+	Query: "Sonora aemula sonora" ; Times: 1
+	Query: "Anthicus arkansas" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:MPM" ; Times: 2
+	Query: "Reptilia Wisconsin jefferson" ; Times: 1
+	Query: "Reptilia Wisconsin dane" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "Farancia Missouri" ; Times: 1
+	Query: "richland wisconsin crotalus" ; Times: 1
+	Query: "sistrurus wisconsin" ; Times: 3
+	Query: "reptilia arkansas hot spring" ; Times: 1
+	Query: "clemmys wisconsin Vernon" ; Times: 1
+	Query: "reptilia arkansas calhoun" ; Times: 1
+	Query: "pituophis eau claire" ; Times: 1
+	Query: "RMB 3118" ; Times: 1
+	Query: "sistrurus columbia wisconsin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 962 download events in this period)
+Total number of records downloaded: 1892
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-19 ; Times: 5
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "genus:anolis specificepithet:cristatellus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "eurycea neotenes" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "siren intermedia" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:wehrlei genus:Plethodon" ; Times: 1
+	Query: "Bipes biporus" ; Times: 5
+	Query: "Celestus" ; Times: 1
+	Query: "Hemiphractidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "bipes biporus" ; Times: 2
+	Query: "Abronia" ; Times: 1
+
+
+End of report.
