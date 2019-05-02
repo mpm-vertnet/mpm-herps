@@ -1,0 +1,212 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 51
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 5
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-17 ; Times: 12
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-02 ; Times: 6
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 7
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12580 institutioncode:MPM" ; Times: 1
+	Query: "beaver wash class:reptilia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Thamnophis (stomach contents)" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Parker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 3
+	Query: "catalognumber:1180 institutioncode:MPM" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 3
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "sistrurus iowa" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "catalognumber:1900 institutioncode:MPM" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "sistrurus catenatus jackson" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 3
+	Query: "catalognumber:4180 institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:Calligaster genus:Lampropeltis county:&#34;Ouachita&#34;" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "laemanctus" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:20122 institutioncode:MPM" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "beaver dam wash class:reptilia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:650 institutioncode:MPM" ; Times: 1
+	Query: "crotalus klauberi" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Dickens&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "specificepithet:cristatellus genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:1290 institutioncode:MPM" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Iowa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "contortrix missouri" ; Times: 4
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "beaver dam wash class:reptilia" ; Times: 1
+	Query: "Phyllomedusa lemur" ; Times: 1
+	Query: "&#34;point rock&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "terrapene grant wisconsin" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 6
+	Query: "genus:kinosternon stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "elapsoidea sundevallii" ; Times: 2
+	Query: "wolf photos" ; Times: 1
+	Query: "catalognumber:7010 institutioncode:MPM" ; Times: 1
+	Query: "catalognumber:10122 institutioncode:MPM" ; Times: 1
+	Query: "sceloporus squamosus nicaragua" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "catalognumber:4580 institutioncode:MPM" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Ouachita&#34;" ; Times: 1
+	Query: "catalognumber:517 institutioncode:MPM" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "catalognumber:720 institutioncode:MPM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1263 download events in this period)
+Total number of records downloaded: 2269
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 40
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 8
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Ambystoma dumerilii" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Sonora episcopa" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "anolis sagrei hawaii" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "family:plethodontidae (&#34;seep&#34; OR &#34;seepage&#34;) AND (NOT &#34;oregon&#34; NOT &#34;washington&#34; NOT &#34;california&#34; NOT &#34;arkansas&#34; NOT &#34;louisiana&#34; NOT &#34;florida&#34; NOT &#34;mississippi&#34;)" ; Times: 1
+	Query: "anolis carolinensis hawaii" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+	Query: "&#34;seepage&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1890 year &lt;= 1989" ; Times: 1
+	Query: "Mabuya unimarginata" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Xantusia Utah" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "maculatum stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+
+End of report.
