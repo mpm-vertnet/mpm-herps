@@ -1,0 +1,286 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 305
+Number of records retrieved in searches: 3562
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 282
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 9
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 4
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-11 ; Times: 21
+	Date: 2019-09-12 ; Times: 6
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 18
+	Date: 2019-09-30 ; Times: 10
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 51
+	Date: 2019-09-02 ; Times: 10
+	Date: 2019-09-01 ; Times: 10
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 31
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 51
+	Date: 2019-09-21 ; Times: 11
+	Date: 2019-09-20 ; Times: 40
+	Date: 2019-09-25 ; Times: 5
+	Date: 2019-09-24 ; Times: 6
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-29 ; Times: 4
+	Date: 2019-09-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;North Dakota&#34;" ; Times: 2
+	Query: "debilis specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "specificepithet:inaguae genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "thamnophis butleri milwaukee" ; Times: 4
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "thamnophis butleri havenwoods" ; Times: 1
+	Query: "specificepithet:argivus genus:Sphaerodactylus institutioncode:MPM" ; Times: 5
+	Query: "Wisconsin Graptemys Columbia" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "specificepithet:armstrongi genus:Sphaerodactylus institutioncode:MPM" ; Times: 4
+	Query: "family:Viperidae institutioncode:MPM" ; Times: 1
+	Query: "waukesha thamnophis butleri" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "butleri waukesha" ; Times: 2
+	Query: "Drymoluber dichrous" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "punctatus specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:torrei genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Ouachita and Wisconsin and Graptemys" ; Times: 1
+	Query: "genus:Crotalus institutioncode:MPM" ; Times: 1
+	Query: "door thamnophis wisconsin" ; Times: 1
+	Query: "specificepithet:eques  genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:ruibali genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Ouachita and Wisconsin" ; Times: 2
+	Query: "specificepithet:cystignathoides genus:Eleutherodactylus year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:vincenti genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "family:Viperidae stateprovince:&#34;Wisconsin&#34; institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:randi genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "RMB 4348" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "mastigodryas bifossatus" ; Times: 1
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:caicosensis genus:Sphaerodactylus institutioncode:MPM" ; Times: 4
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "graptemys geographica wisconsin columbia" ; Times: 3
+	Query: "genus:Sistrurus county:&#34;parker&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:MPM" ; Times: 11
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Wisconsin Graptemys Sauk" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:MPM" ; Times: 4
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:MPM" ; Times: 5
+	Query: "debilis specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "butleri wisconsin thamnophis" ; Times: 1
+	Query: "specificepithet:difficilis genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:clenchi genus:Sphaerodactylus institutioncode:MPM" ; Times: 4
+	Query: "butleri wisconsin" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "specificepithet:altavelensis genus:Sphaerodactylus institutioncode:MPM" ; Times: 5
+	Query: "Python molurus" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MPM" ; Times: 5
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "32980" ; Times: 1
+	Query: "graptemys geographica wisconsin juneau" ; Times: 1
+	Query: "MPM H 15195" ; Times: 2
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sabanus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "washington wisconsin thamnophis" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:MPM" ; Times: 5
+	Query: "specificepithet:leprus" ; Times: 1
+	Query: "opheodrys door wisconsin" ; Times: 1
+	Query: "specificepithet:montanus genus:Eleutherodactylus" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:MPM" ; Times: 5
+	Query: "punctatus specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Corallus ruschenbergerii" ; Times: 2
+	Query: "specificepithet:americana genus:Tarentola institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:hechti genus:Aristelliger institutioncode:MPM" ; Times: 5
+	Query: "muelleri smns" ; Times: 1
+	Query: "Eurycea l. longicauda" ; Times: 1
+	Query: "SMNS 2728" ; Times: 2
+	Query: "specificepithet:semasiops genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "graptemys wisconsin columbia" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:MPM" ; Times: 8
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:streptophorus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "butleri wisconsin washington" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;Mendocino&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Caliente county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "graptemys jackson wisconsin" ; Times: 1
+	Query: "RMB 134" ; Times: 1
+	Query: "class:Reptilia institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:savagei genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "genus:eleutherodactylus stateprovince:&#34;san luis potosi&#34;" ; Times: 1
+	Query: "thamnophis milwaukee" ; Times: 2
+	Query: "specificepithet:underwoodi genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:corticola genus:Sphaerodactylus institutioncode:MPM" ; Times: 4
+	Query: "Ouachita Wisconsin Graptemys" ; Times: 1
+	Query: "genus:Gambelia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "RMB 3041" ; Times: 2
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:MPM" ; Times: 5
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MPM" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 6
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 5
+	Query: "specificepithet:microlepis genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "specificepithet:brachyphona stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "graptemys geographica wisconsin sauk" ; Times: 2
+	Query: "genus:Chionactis county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "elaphe vulpina wisconsin oneida" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Maricopa county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "class:Reptilia locality:Lake Isabella county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "SMNS 5767" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:CHARINA county:&#34;marin&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "thamnophis butleri waukesha" ; Times: 3
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Little river&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Plethodon dixi" ; Times: 1
+	Query: "genus:Ascaphus locality:Quartz" ; Times: 1
+	Query: "thamnophis butleri cudahy" ; Times: 1
+	Query: "Lampropeltis floridana" ; Times: 1
+	Query: "Bothrophthalmus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1073 download events in this period)
+Total number of records downloaded: 1897
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 34
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "micrurus diastema" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "centrolene" ; Times: 2
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MPM" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Gambelia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:ochrophaeus genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1940 year &lt;= 1994" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "order:anura lengthtype:snout-vent length haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1960" ; Times: 1
+	Query: "genus:dicamptodon county:&#34;marin&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:welteri genus:desmognathus year &gt;= 1967 year &lt;= 1990" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "boa imperator" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+
+
+End of report.
