@@ -1,0 +1,281 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1720
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 141
+	Country: Australia ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 4
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 18
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-04 ; Times: 16
+	Date: 2019-10-07 ; Times: 7
+	Date: 2019-10-23 ; Times: 12
+	Date: 2019-10-22 ; Times: 16
+	Date: 2019-10-29 ; Times: 4
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-02 ; Times: 15
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 5
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-16 ; Times: 10
+	Date: 2019-10-31 ; Times: 24
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 17
+	Date: 2019-10-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Ware&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 1
+	Query: "specificepithet:johni genus:eryx institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2015" ; Times: 1
+	Query: "recordedby:Brewer year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:fragilis genus:anguis institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:striatus genus:epicrates institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Ambystoma Milwaukee county" ; Times: 1
+	Query: "mpm maryland" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "specificepithet:annulata genus:Tantilla class:Reptilia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Bay county flavilata" ; Times: 1
+	Query: "leptophis diplotropis sinaloa" ; Times: 1
+	Query: "salvadora sinaloa" ; Times: 2
+	Query: "sonora episcopa" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 2
+	Query: "ouachita and wisconsin" ; Times: 1
+	Query: "euparkerella" ; Times: 1
+	Query: "drymarchon sinaloa" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "door wisconsin emydoidea" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "genus:Rana class:Amphibia county:&#34;Nevada&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:gymnophthalmus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "specificepithet:crusculus genus:Celestus country:&#34;Jamaica&#34;" ; Times: 2
+	Query: "phrynosoma colima" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Triprion spatulatus" ; Times: 2
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Storeria Missouri" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "specificepithet:attenuatus genus:ophisaurus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ophisaurus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:tropidophis stateprovince:&#34;inagua&#34;" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "Pleurodema bibroni" ; Times: 1
+	Query: "masticophis mentovarius sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "Sistrurus catenatus 1974" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "genus:epicrates institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "RMB 4898" ; Times: 1
+	Query: "specificepithet:niloticus genus:varanus country:&#34;egypt&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:loxocemus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:annulata genus:Tantilla class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "macrodactylum Ambystoma" ; Times: 12
+	Query: "genus:Nephrurus stateprovince:&#34;Queensland&#34;" ; Times: 4
+	Query: "Sistrurus catenatus 1988" ; Times: 1
+	Query: "genus:amphisbaena institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "THAMNOPHIS SIRTALIS TETRATAENIA" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "Nephrurus asper" ; Times: 1
+	Query: "genus:charina institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:dumerilii genus:Ambystoma" ; Times: 1
+	Query: "iguana iguana sinaloa" ; Times: 1
+	Query: "genus:tropidophis country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:bipes institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "craugastor colima" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 2
+	Query: "eryx johni" ; Times: 1
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "pachymedusa dacnicolor sinaloa" ; Times: 2
+	Query: "crocodylus acutus sinaloa" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 3
+	Query: "Sistrurus catenatus 1993" ; Times: 1
+	Query: "genus:celestus hasmedia:1" ; Times: 5
+	Query: "Storeria dekayi Missouri" ; Times: 3
+	Query: "painted turtles" ; Times: 7
+	Query: "genus:blanus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sphaerodactylus sputator" ; Times: 1
+	Query: "drymobius sinaloa" ; Times: 3
+	Query: "specificepithet:barbouri genus:graptemys stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 14
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Sistrurus catenatus 1976" ; Times: 1
+	Query: "imantodes gemmistratus sinaloa" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:ventralis genus:ophisaurus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:nerodia institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "genus:cylindrophis institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "family:Colubridae country:&#34;Jamaica&#34;" ; Times: 3
+	Query: "genus:malaclemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "masticophis flagellum sinaloa" ; Times: 1
+	Query: "genus:diplodactylus institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:tropidophis country:&#34;bahamas&#34;" ; Times: 2
+	Query: "hemidactylium door wisconsin" ; Times: 1
+	Query: "nerodia harteri" ; Times: 2
+	Query: "oxybelis aeneus sinaloa" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Bacon&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "door wisconsin hemidactylium" ; Times: 1
+	Query: "boa sinaloa" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "genus:varanus country:&#34;egypt&#34;" ; Times: 2
+	Query: "trimorphodon paucimaculatus sinaloa" ; Times: 1
+	Query: "neotenic genus:Ambystoma" ; Times: 6
+	Query: "genus:tropidophis country:&#34;cayman&#34;" ; Times: 1
+	Query: "genus:rhineura institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tropidophis country:&#34;Turks and Caicos&#34;" ; Times: 2
+	Query: "specificepithet:guttata genus:elaphe institutioncode:MPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:laterale genus:ambystoma stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Eleutherodactylus alcoae" ; Times: 2
+	Query: "Tretanorhinus variabilis" ; Times: 4
+	Query: "hypsiglena sinaloa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1308 download events in this period)
+Total number of records downloaded: 949
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 27
+	Country: United States ; Times: 33
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 21
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-30 ; Times: 12
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "amphisbaena caeca" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "anolis baleatus" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "Abronia graminea" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "sphaerodactylus elegans" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "order:anura lifestage:adult lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "testudo graeca" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "yonahlossee" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ensatina county:&#34;curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:distichus genus:Anolis country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 1
+	Query: "ameiva auberi" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "Tretanorhinus variabilis" ; Times: 1
+
+
+End of report.
