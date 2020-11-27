@@ -1,0 +1,252 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 941
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 87
+	Country: Switzerland ; Times: 1
+	Country: French Guiana ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Dominica ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 17
+	Date: 2020-02-02 ; Times: 3
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-04 ; Times: 30
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 6
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "crotalus stephensii" ; Times: 1
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:basiliscus genus:Crotalus stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "specificepithet:inaguae genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "specificepithet:argivus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 2
+	Query: "genus:Eurycea recordedby:Brown" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:armstrongi genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "Dicamptodon county:&#34;Marin&#34;" ; Times: 1
+	Query: "specificepithet:torrei genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "(selph)" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "specificepithet:randi genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "genus:Dicamptodon county:&#34;San Mateo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "aneides aeneus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:vincenti genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:caicosensis genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Lichanura gracia" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:MPM" ; Times: 1
+	Query: "deirochelys reticularia missouri" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "epicrates institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:sabanus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:tigris family:viperidae" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:MPM" ; Times: 1
+	Query: "Xantusia extorris" ; Times: 1
+	Query: "Extenuatum" ; Times: 1
+	Query: "specificepithet:difficilis genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:clenchi genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;monterey&#34;" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "specificepithet:ruibali genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:tadpole" ; Times: 2
+	Query: "specificepithet:sputator genus:sphaerodactylus" ; Times: 2
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:MPM" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:hechti genus:Aristelliger institutioncode:MPM" ; Times: 1
+	Query: "genus:Abronia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:MPM" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "philodendron" ; Times: 1
+	Query: "specificepithet:semasiops genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:streptophorus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "drymoluber dichrous" ; Times: 1
+	Query: "specificepithet:altavelensis genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "genus:ambystoma lifestage:tadpole" ; Times: 1
+	Query: "genus:Rana specificepithet:taylori" ; Times: 1
+	Query: "specificepithet:savagei genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "genus:Eumeces institutioncode:MPM" ; Times: 1
+	Query: "LOS HAITISES" ; Times: 2
+	Query: "Liophis juliae" ; Times: 2
+	Query: "&#34;thamnophis sirtalis tetrataenia&#34;" ; Times: 1
+	Query: "corallus institutioncode:MPM" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 3
+	Query: "specificepithet:underwoodi genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:corticola genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:microlepis genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MPM" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Missouri&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis" ; Times: 1
+	Query: "corallus annulatus institutioncode:MPM" ; Times: 1
+	Query: "Lichanura gracia arizona" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1023 download events in this period)
+Total number of records downloaded: 2600
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: French Guiana ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 5
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Oedipina" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;monterey&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "deirochelys" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Liophis juliae" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "genus:Ambystoma lifestage:tadpole" ; Times: 1
+	Query: "Anolis cybotes Dominican Republic" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "genus:Craugastor country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "Xantusia extorris" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "Abronia graminea" ; Times: 1
+
+
+End of report.
