@@ -1,0 +1,261 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 486
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 73
+	Country: Colombia ; Times: 13
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Syria ; Times: 1
+	Country: Dominican Republic ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-18 ; Times: 8
+	Date: 2020-10-08 ; Times: 12
+	Date: 2020-10-12 ; Times: 8
+	Date: 2020-10-13 ; Times: 8
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-16 ; Times: 2
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-14 ; Times: 4
+	Date: 2020-10-15 ; Times: 8
+	Date: 2020-10-03 ; Times: 5
+	Date: 2020-10-23 ; Times: 10
+	Date: 2020-10-22 ; Times: 6
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-02 ; Times: 5
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 6
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-24 ; Times: 6
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-30 ; Times: 16
+	Date: 2020-10-29 ; Times: 7
+	Date: 2020-10-28 ; Times: 15
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-17 ; Times: 2
+	Date: 2020-10-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:angustipons genus:Kinosternon country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Causus resimus" ; Times: 6
+	Query: "specificepithet:freminvillei genus:Stenorrhina stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pulaski&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Podocnemis expansa" ; Times: 1
+	Query: "Liophis poecilogyrus" ; Times: 2
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "RMB 18400" ; Times: 2
+	Query: "Terrapene coahuila" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Saint Clair&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "terrapene coahuila" ; Times: 2
+	Query: "specificepithet:cinerea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;harlan&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "RMB 3272" ; Times: 3
+	Query: "brazil bothrops atrox" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 2
+	Query: "PUCRS" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Ozark&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:umbra genus:plica country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:umbra genus:plica stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:hemidactylus country:&#34;colombia&#34;" ; Times: 1
+	Query: "RMB 3893" ; Times: 2
+	Query: "class:Reptilia catalognumber:25910" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "&#34;RMB 3692&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Barry&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bothrops atrox peru" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pettis&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Terrapene Coahuila." ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:Graptemys county:&#34;Red River&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "12803" ; Times: 1
+	Query: "RMB-4407" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "&#34;RMB 3272&#34;" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 4
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Douglas&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miller&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bothrophthalmus" ; Times: 1
+	Query: "genus:Hemidactylium class:Amphibia haslength:1" ; Times: 1
+	Query: "milkweed" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 21
+	Query: "cryptobranchidae stateprovince:&#34;Pennsylvania&#34;" ; Times: 6
+	Query: "RMB 4407" ; Times: 2
+	Query: "Corallus ruschenbergerii" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:MPM" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "specificepithet:trachyderma genus:anolis country:&#34;peru&#34;" ; Times: 1
+	Query: "RMB 4330" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Peru&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Peru&#34;" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;riverside&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (catenatus)" ; Times: 2
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:Chironius country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:Cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "Ambystoma talpoideum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 3
+	Query: "class:amphibia county:&#34;carter&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "hyla versicolor marquette county wisconsin" ; Times: 3
+	Query: "genus:Ambystoma county:&#34;Wright&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "pseudacris clark county wisconsin" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "specificepithet:opacum genus:AMbystoma stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "gopherus agassizi" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MPM" ; Times: 1
+	Query: "Plethodon yonahlossee county:&#34;Rutherford&#34; stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;North carolina&#34;" ; Times: 2
+	Query: "Eleutherodactylus alcoae" ; Times: 9
+	Query: "Paleosuchus trigonatus" ; Times: 2
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 9
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;tennessee&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1521 download events in this period)
+Total number of records downloaded: 2626
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Samoa ; Times: 1
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 39
+	Country: Ethiopia ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 14
+	Date: 2020-10-18 ; Times: 3
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-16 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 11
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-02 ; Times: 5
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 10
+	Date: 2020-10-30 ; Times: 6
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 9
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 7
+	Date: 2020-10-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Plethodon cinereus&#34; AND &#34;michigan&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "genus:Hemidactylium class:Amphibia haslength:1" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 4
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "Abronia graminea" ; Times: 2
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:Rana haslength:1" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Causus resimus" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 15
+	Query: "Crotalus basiliscus" ; Times: 3
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:trachyderma genus:anolis country:&#34;peru&#34;" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "terrapene coahuila" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius country:&#34;Peru&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "ameiva exsul" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "genus:Plethodon class:Amphibia haslength:1" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "Chironius" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+
+
+End of report.
