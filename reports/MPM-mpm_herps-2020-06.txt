@@ -1,0 +1,136 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 3274
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 75
+	Country: Sweden ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Switzerland ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-08 ; Times: 8
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-01 ; Times: 13
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-23 ; Times: 6
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla cuniculator" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ NOT KU NOT AMNH NOT FMNH NOT UF) institutioncode:MPM" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "genus:Rana specificepithet:macroglossa" ; Times: 3
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Christian&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; institutioncode:MPM" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 2
+	Query: "hyla menominee wisconsin" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "genus:dendrophidion country:&#34;Peru&#34;" ; Times: 1
+	Query: "hypnale hypnale india" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; AND (NOT PORTHIDIUM NOT MICRURUS)" ; Times: 2
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Peru&#34;" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ NOT KU NOT AMNH NOT FMNH NOT UF)" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 474 download events in this period)
+Total number of records downloaded: 30347
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "SMNS" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
