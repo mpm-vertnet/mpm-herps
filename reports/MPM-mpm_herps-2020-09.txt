@@ -1,0 +1,234 @@
+Report for Institution Code MPM, Resource mpm_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1299
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 1
+	Country: United States ; Times: 76
+	Country: Sweden ; Times: 24
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 6
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-20 ; Times: 5
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 5
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 8
+	Date: 2020-09-28 ; Times: 6
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 7
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 29
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MPM" ; Times: 2
+	Query: "genus:siren county:&#34;citrus&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "RMB 4000" ; Times: 2
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus AND (NOT bobilini NOT mekistus NOT noblei NOT anthracomus NOT dificilis NOT diolenius NOT euopter NOT lycauges NOT peratus NOT typhlopous)" ; Times: 2
+	Query: "specificepithet:vernalis county:&#34;La Crosse&#34; stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "specificepithet:VERNALIS genus:OPHEODRYS stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "graptemys trempealeau wisconsin" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "genus:Plethodon specificepithet:dixi" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Veracruz&#34;" ; Times: 3
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Vernon&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:palleucus genus:gyrinophilus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1900 year &lt;= 1931 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1946 year &lt;= 1950" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "stateprovince:&#34;Illinois&#34; (bufo americanus) institutioncode:MPM" ; Times: 2
+	Query: "heterodon platirhinos pierce wisconsin" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1989 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:Fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "SMNS 2045" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Walworth&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Wisconsin&#34; (bufo) institutioncode:MPM" ; Times: 2
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;La Crosse&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Iowa&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:angustipons genus:Kinosternon order:Testudines" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Juneau&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:salamander cave" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Iowa&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Columbia&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; (bufo americanus) institutioncode:MPM" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Jackson&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Columbia&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "sistrurus columbia" ; Times: 1
+	Query: "palleucus" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Anolis brunneus" ; Times: 2
+	Query: "genus:Sphaerodactylus institutioncode:MPM" ; Times: 3
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 2
+	Query: "Coluber constrictor paludicola" ; Times: 1
+	Query: "graptemys juneau wisconsin" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:MPM" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Buffalo&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Leptodeira country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Dane&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:plethodon stateprovince:&#34;idaho&#34;" ; Times: 2
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:stormi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Trempealeau&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1870 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1900 year &lt;= 1945 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heterodon wisconsin" ; Times: 1
+	Query: "specificepithet:vernalis stateprovince:&#34;Wisconsin&#34; catalognumber:23519" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1945 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:hydromantes county:&#34;Shasta&#34;" ; Times: 1
+	Query: "Hypsiglena ochrorhynchus" ; Times: 1
+	Query: "RMB 4627" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Walworth&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Missouri necturus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MPM" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "genus:Hemidactylus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;La Crosse&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sistrurus wisconsin" ; Times: 3
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus AND (NOT bobilini NOT mekistus NOT noblei)" ; Times: 1
+	Query: "lampropeltis calligaster indiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 976 download events in this period)
+Total number of records downloaded: 5788
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 35
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Fiji ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "plica umbra" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "tretanorhinus nigroluteus" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "scaphiodontophis annulatus" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Boa imperator México" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Wisconsin&#34; (bufo) institutioncode:MPM" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus AND (NOT bobilini NOT mekistus NOT noblei NOT anthracomus NOT dificilis NOT diolenius NOT euopter NOT lycauges NOT peratus NOT typhlopous)" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "brevirostratus genus:Sphaerodactylus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; (bufo americanus) institutioncode:MPM" ; Times: 1
+	Query: "Pliocercus elapoides" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus AND (NOT bobilini NOT mekistus NOT noblei)" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+
+
+End of report.
